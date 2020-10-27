@@ -175,7 +175,7 @@
 
 
 
-              <a href="/cart" class="site-header__cart">
+              <a href="/products/cart.php" class="site-header__cart">
                 <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-cart"
                   viewBox="0 0 37 40">
                   <path
